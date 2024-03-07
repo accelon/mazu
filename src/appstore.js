@@ -2,9 +2,9 @@ export * from 'accelon23/src/store.js';
 import {ACC23 as _ACC23} from 'accelon23/src/appconst.js'
 
 _ACC23.CacheName='v1::mazu',
-_ACC23.AppVer='24.3.6';
+_ACC23.AppVer='24.3.7';
 _ACC23.AppName='mazu'
-_ACC23.AppTitle='媽祖'
+_ACC23.AppTitle='和媽祖做伙讀經'
 _ACC23.allptks=['mazu','mazu-bh'];
 _ACC23.selectedptks=['mazu','mazu-bh']
 _ACC23.activeptk='mazu'
